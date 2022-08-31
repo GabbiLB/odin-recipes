@@ -1,0 +1,17 @@
+.center {   
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   text-align: center;
+   margin: 25px 300px;
+}
+
+p, ul, ol{
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 32px;
+}
